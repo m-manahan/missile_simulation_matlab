@@ -1,6 +1,5 @@
 clear all; close all; clc; format long;
 name = 'Marcus Manahan';
-id = 'A10980948';
 hw_num = 'project';
 %Create arrays to hold the X,Y,Z coordinates, inital mass, final mass, and
 %other variables
